@@ -2,9 +2,8 @@
 
 A FiveM Launcher I made for a server.
 
-**Download :**
-[Releases](https://github.com/IlyasDiker/FiveM_Launcher/releases)
+
 
 **Preview :**
 
-![](https://i.imgur.com/yKarmio.png)
+![](https://imgur.com/a/ctaCxl0)
