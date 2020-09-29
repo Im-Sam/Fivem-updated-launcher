@@ -6,4 +6,4 @@ A FiveM Launcher I made for a server.
 
 **Preview :**
 
-![image](https://imgur.com/a/ctaCxl0)
+![image](https://i.imgur.com/IUPcuXg.png)
