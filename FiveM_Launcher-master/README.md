@@ -1,6 +1,6 @@
-# ALTTAB Launcher <img alt="discontinued" src="https://img.shields.io/badge/-Discontinued-red">
+# Updated FiveM Launcher <img alt="discontinued" src="https://img.shields.io/badge/-Active-red">
 
-A FiveM Launcher for [ALTTAB GAMING Community](https://www.alttabgaming.com/)
+A FiveM Launcher I made for a server.
 
 **Download :**
 [Releases](https://github.com/IlyasDiker/FiveM_Launcher/releases)
