@@ -1,0 +1,11 @@
+D:\devtest\SLSRP\BORP\FiveM_Launcher-master\bin\Release\ALTTABBetaLauncher.exe.config
+D:\devtest\SLSRP\BORP\FiveM_Launcher-master\bin\Release\ALTTABBetaLauncher.exe
+D:\devtest\SLSRP\BORP\FiveM_Launcher-master\bin\Release\ALTTABBetaLauncher.pdb
+D:\devtest\SLSRP\BORP\FiveM_Launcher-master\bin\Release\ALTTABBetaLauncher.xml
+D:\devtest\SLSRP\BORP\FiveM_Launcher-master\obj\Release\Launcher.Launcher.resources
+D:\devtest\SLSRP\BORP\FiveM_Launcher-master\obj\Release\Launcher.Resources.resources
+D:\devtest\SLSRP\BORP\FiveM_Launcher-master\obj\Release\BORP Launcher.vbproj.GenerateResource.cache
+D:\devtest\SLSRP\BORP\FiveM_Launcher-master\obj\Release\BORP Launcher.vbproj.CoreCompileInputs.cache
+D:\devtest\SLSRP\BORP\FiveM_Launcher-master\obj\Release\ALTTABBetaLauncher.exe
+D:\devtest\SLSRP\BORP\FiveM_Launcher-master\obj\Release\ALTTABBetaLauncher.xml
+D:\devtest\SLSRP\BORP\FiveM_Launcher-master\obj\Release\ALTTABBetaLauncher.pdb
